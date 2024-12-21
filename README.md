@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 bug related to event listener management.  The `bug.as` file contains code that incorrectly handles event listener removal.  The `bugSolution.as` file provides a corrected version with proper listener removal.  The bug manifests as a continued execution of an event handler even after the event source is removed.
